@@ -1,16 +1,15 @@
-## Hi there 👋
+# Halo, saya M Ridho Saputra 👋
 
-<!--
-**MRidho-Saputra/MRidho-Saputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Ilmu Komputer yang sedang belajar pemrograman dari dasar.
 
-Here are some ideas to get you started:
+## 👨‍🎓 Tentang Saya
+- 🎓 Mahasiswa Ilmu Komputer ULM
+- 🌱 Sedang belajar: Java, Git & GitHub
+- 🎬 Hobi: Menonton film & bermain game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skill yang Sedang Dipelajari
+- Java (Hello World, Variabel, Tipe Data)
+- Git & GitHub
+
+## 📫 Kontak
+- Email: ridhoindoid@email.com
